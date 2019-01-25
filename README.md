@@ -1,4 +1,5 @@
 # CRUD-java-jax-rs
+REST
 simple CRUD with jax rs
 
 what you need :
